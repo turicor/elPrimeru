@@ -8,3 +8,5 @@
 * puntu 3
  
 testu namai
+
+![descripcion de la imaxe](reddit.png)
